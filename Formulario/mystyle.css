@@ -1,0 +1,44 @@
+body {
+  background-color: lightblue;
+  font-family: helvetic;
+}
+h1 {
+  text-align: center;
+  color: #0000f0;
+}
+legend {
+  background-color:green;
+  margin: 10px;
+  border-radius: 3px;
+  text-align: center;
+  border: 3px solid lime;
+  font-size: 20px;
+}
+.f1 {
+  font-family: helvetica;
+  background-color: #18c73b;
+  color: white;
+  border: 3px solid green;
+  border-radius: 5px;
+}
+input {
+  border: 3px solid green;
+  border-radius: 5px;
+}
+textarea {
+  border: 5px solid green;
+  border-radius: 3px;
+}
+button {
+  font-size: 15px;
+  background-color: white;
+  color: black;
+  margin-left: 10px;
+  
+}
+.b1 {
+  margin-left: 20px;
+}
+th, td{
+  border: 2px solid black;
+}
